@@ -1,6 +1,7 @@
 
 [Chapter 01](https://B00097410.github.io/github-story-2019/chapter01.html)
 [Chapter 02](https://B00097410.github.io/github-story-2019/chapter02.html)
+[Chapter 03](https://B00097410.github.io/github-story-2019/chapter03.html)
 
 ## Welcome to GitHub Pages
 
