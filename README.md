@@ -1,8 +1,8 @@
-#github-story-2019
+# github-story-2019
 
 My story based on the theme 'Spring'
 
-#Chapters
+# Chapters
 
 [Chapter 01](https://B00097410.github.io/github-story-2019/chapter01.html)
 
@@ -10,7 +10,7 @@ My story based on the theme 'Spring'
 
 [Chapter 03](https://B00097410.github.io/github-story-2019/chapter03.html)
 
-#Releases
+# Releases
 
 [Version 1.0](https://github.com/B00097410/github-story-2019/releases/tag/version1.0)
 
